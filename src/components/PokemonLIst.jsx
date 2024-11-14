@@ -26,11 +26,6 @@ const PokemonList = ({removePokemon}) => {
       alert("빈 칸이 없습니다!!")
     }
   } // 기능 설명 ...
- 
-
-
-
-
 
 
   return (
